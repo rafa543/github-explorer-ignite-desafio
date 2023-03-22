@@ -64,7 +64,7 @@ exibe informações de qualquer repositório público a partir da busca pelo usu
 ## Preview
 
 <h1 align="center">
-   <img src="https://github.com/rafa543/github-explorer-ignite-desafio/blob/main/assets/Screenrecorder-2023-03-19-08-45-18-521.gif" alt="App savePass" />
+   <img src="https://github.com/rafa543/github-explorer-ignite-desafio/blob/main/src/assets/Peek_2021-07-08_01-04.gif" alt="github-explorer" />
 </h1>
 
 <!--Layout session-->
